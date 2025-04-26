@@ -1,0 +1,8 @@
+Supplier Name,Invoice Amount ($),Invoice Date,Category
+Supplier A,10000,2025-01-01,Lab Supplies
+Supplier B,25000,2025-01-02,Equipment
+Supplier A,5000,2025-01-03,Lab Supplies
+Supplier C,15000,2025-01-04,Services
+Supplier D,8000,2025-01-05,IT Hardware
+Supplier B,30000,2025-01-06,Equipment
+Supplier E,12000,2025-01-07,Software
